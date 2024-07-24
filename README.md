@@ -61,7 +61,7 @@
 
 <img align="center" alt="study" height="620px" src="https://github.com/user-attachments/assets/14faae0d-ea9a-424d-9e28-3c63c106b712">
 
-<br><br><br>
+<br>
 
 ## My Skills
 
