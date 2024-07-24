@@ -1,10 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&weight=500&size=22&pause=1000&color=CC2EFA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&weight=500&size=22&pause=1000&color=CC2EFA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-
+<div align="center">  
+  <img width="200" height="200" src="https://img.icons8.com/plasticine/200/000000/kuromi.png" alt="kuromi"/>
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC2EFA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+Eu+sou+a+Bruna+Oliveira++%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -12,9 +14,7 @@
 </div>
 <br>
   
-<div align="center">  
-  <img width="200" height="200" src="https://img.icons8.com/plasticine/200/000000/kuromi.png" alt="kuromi"/>
-</div>
+
 <div align="center">
   <a> <h4> 👩‍💻Atualmente trabalho com front-end</h4> </a>
 </div>
@@ -32,7 +32,7 @@
 ##
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> ✮ GitHub Stats ✮</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devbyar&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8000FF&text_color=FFF&border_radius=3&border_color=8000FF&icon_color=8000FF&theme=jolly" alt="GitHub stats">
 
@@ -53,7 +53,7 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8000FF&color:FFF)](https://www.linkedin.com/in/brunaprofissional/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8000FF&color:FFF)](https://www.instagram.com/iixxsgleam__/)
 
-<img align="center" alt="study" height="400px" src="https://github.com/user-attachments/assets/14faae0d-ea9a-424d-9e28-3c63c106b712">
+<img align="center" alt="study" height="620px" src="https://github.com/user-attachments/assets/14faae0d-ea9a-424d-9e28-3c63c106b712">
 
 <br><br><br>
 
