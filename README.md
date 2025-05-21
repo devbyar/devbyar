@@ -3,7 +3,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&weight=500&size=26&pause=1000&color=CC2EFA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8000FF&background=FFFFFF00&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+    
   </a>
 </div>
 
@@ -12,7 +14,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=CC2EFA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+Eu+sou+a+Bruna+Oliveira++%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8000FF&background=FFFFFF00&multiline=true&width=435&lines=Eu+sou+a+Bruna+Oliveira" alt="Typing SVG" /></a>
   </a>
 </div>
 <br>
