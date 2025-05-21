@@ -13,9 +13,7 @@
   <img width="200" height="200" src="https://img.icons8.com/plasticine/200/000000/kuromi.png" alt="kuromi"/>
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8000FF&background=FFFFFF00&multiline=true&width=435&lines=Eu+sou+a+Bruna+Oliveira" alt="Typing SVG" /></a>
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8000FF&background=FFFFFF00&multiline=true&width=435&lines=Eu+sou+a+Bruna+Oliveira" alt="Typing SVG" /></a>
 </div>
 <br>
   
